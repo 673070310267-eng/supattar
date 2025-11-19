@@ -1,1 +1,4 @@
-print ("Hello world")
+print ("Lalita")
+print ("Kitisriworaphan")
+
+print ("Hello Supattar")
